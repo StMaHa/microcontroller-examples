@@ -10,3 +10,8 @@ Beispiel zur Verwendung des Ultraschallsensors
 Dem Beispiel mit Ultraschallsensors wird die Ansteuerung der H-Brücke hinzugefügt  
 3. Sketch: sketch_RoboterAuto  
 Komplettes Besipiel für das RoboterAuto  
+
+
+# LICENSE
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations.
