@@ -1,4 +1,4 @@
-# RoboCar / RoboterAuto
+# RoboCar / RoboterAuto (for Arduino Nano)
 
 Platform: 2WD Smart Car Chassis  
 Ultraschallsensor: HC-SR04  
