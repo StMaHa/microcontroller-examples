@@ -1,4 +1,5 @@
 # Christmas Tree with Star
+(code snippets only, no full IDE projects)
 - Star: 20 LEDs
 - Tree: 11 LEDs
 
